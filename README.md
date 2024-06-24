@@ -66,3 +66,4 @@ For more information, visit [HOLLOW NET]
 FOUDR:LUCAS JANAURIO DO NASCIMENTO 
 
 This text provides an overview of HOLLOW NET, highlighting its features, integrations, and capabilities in advancing decentralized applications and digital asset management.
+<img src="A.jpeg">
